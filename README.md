@@ -5,6 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ilyaskhan12Q&color=ff69b4&style=flat-square&label=views)](https://github.com/ilyaskhan12Q)
 [![GitHub followers](https://img.shields.io/github/followers/ilyaskhan12Q?style=flat-square&color=a855f7&label=followers)](https://github.com/ilyaskhan12Q)
 [![GitHub stars](https://img.shields.io/github/stars/ilyaskhan12Q?style=flat-square&color=ec4899&label=stars)](https://github.com/ilyaskhan12Q)
+[![GitHub Streak](https://herokuapp.com)](https://git.io/streak-stats)
 
 ---
 
