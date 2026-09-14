@@ -16,10 +16,14 @@
 
 ## About Me
 
-- **Full Stack Developer** specializing in Python, TypeScript, and Jupyter Notebook
-- Passionate about building scalable web applications and data-driven solutions
-- Currently exploring AI/ML integration in web development
-- Open to collaborations and new opportunities
+I’m **Ilyas Khan**, an AI/ML Engineer and BS Computer Science (AI) student focused on building practical AI systems, AI agents, automation, and production-ready software.
+
+My stack includes **Python, TypeScript, JavaScript, React, Vite, Bash/Linux, PostgreSQL, Supabase, Firebase, SQL, cloud platforms, n8n, and LangChain**, along with modern AI/agent development tools such as **Cursor and Antigravity**.
+
+I enjoy working close to the system—from AI models and agents to databases, APIs, cloud infrastructure, and automation pipelines. Outside engineering, I enjoy **chess, mathematics, and Linux**.
+
+**i like what i do .**
+
 
 ---
 
@@ -48,13 +52,14 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyaskhan12Q&show_icons=true&theme=radical" alt="ilyaskhan12Q" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyaskhan12Q&theme=radical" alt="ilyaskhan12Q" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ilyaskhan12Q&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyaskhan12Q&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaskhan12Q&layout=compact&theme=radical" alt="ilyaskhan12Q" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ilyaskhan12Q&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
+
 
 ---
 
@@ -78,7 +83,7 @@
 ---
 
 <p align="center">
-  <i>"Like the imaginary number i, I solve problems beyond the real axis—and I keep growing toward ∞."</i>
+  <i>"i like doing what i do  **∞**."</i>
 </p>
 
 <p align="center">
