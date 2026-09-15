@@ -20,7 +20,7 @@ I’m **Ilyas Khan**, an AI/ML Engineer and BS Computer Science (AI) student foc
 
 My stack includes **Python, TypeScript, JavaScript, React, Vite, Bash/Linux, PostgreSQL, Supabase, Firebase, SQL, cloud platforms, n8n, and LangChain**, along with modern AI/agent development tools such as **Cursor and Antigravity**.
 
-I enjoy working close to the system—from AI models and agents to databases, APIs, cloud infrastructure, and automation pipelines. Outside engineering, I enjoy **chess, mathematics, and Linux**.
+I enjoy working close to the system .AI models and agents ,databases, APIs, cloud infrastructure, and automation pipelines. Outside engineering, I enjoy **chess, mathematics, and Linux**.
 
 **i like what i do .**
 
@@ -83,7 +83,7 @@ I enjoy working close to the system—from AI models and agents to databases, AP
 ---
 
 <p align="center">
-  <i>"i like doing what i do  **∞**."</i>
+  <i>"i like doing what i do  *∞*."</i>
 </p>
 
 <p align="center">
