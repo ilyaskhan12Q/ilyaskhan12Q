@@ -83,7 +83,7 @@ I enjoy working close to the system .AI models and agents ,databases, APIs, clou
 ---
 
 <p align="center">
-  <i>"i like doing what i do  *∞*."</i>
+  <i>"i **like & enjoy** what i do  *∞*."</i>
 </p>
 
 <p align="center">
