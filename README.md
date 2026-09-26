@@ -63,7 +63,7 @@ I enjoy working close to the system , AI models and agents ,databases, APIs, clo
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilyas-khan67/">
