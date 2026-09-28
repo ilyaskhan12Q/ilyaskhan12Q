@@ -22,7 +22,7 @@ My stack includes **Python, TypeScript, JavaScript, React, Vite, Bash/Linux, Pos
 
 I enjoy working close to the system , AI models and agents ,databases, APIs, cloud infrastructure, and automation pipelines. Outside engineering, I enjoy **chess, mathematics, and Linux**.
 
-**I like & enjoy math and chess in my free time.**
+**I like & enjoy math and chess in my free time..**
 
 
 ---
